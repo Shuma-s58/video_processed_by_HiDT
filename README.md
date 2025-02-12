@@ -1,0 +1,2 @@
+# video_to_processed_by_HiDT
+HiDTによってリアルタイムでの動画加工を可能にするためのリポジトリ
